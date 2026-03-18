@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "1234-QtpD.aternos.me:40262",
+    "port": 40262,
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
